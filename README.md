@@ -33,6 +33,6 @@ The main goal is to reduce confusion, misinformation, and time loss during the f
 
 ## 3) Navigation table
 
-| Section | Description | Status |
+| Section | Description |
 |---|---|
 | [Analysis](./analysis/index.md) | Functional and non-functional requirements, and internal navigation |

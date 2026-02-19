@@ -1,6 +1,6 @@
 # Documentation
 
-## 1) What problem does the project solve?
+## What problem does the project solve?
 
 When a new student (freshman) enters UPB, they often waste time searching for basic and repetitive information such as:
 - Where is a specific building or office located?
@@ -19,7 +19,7 @@ The main goal is to reduce confusion, misinformation, and time loss during the f
 
 ---
 
-## 2) Target audience
+## Target audience
 
 **Primary users**
 - **UPB freshmen (first-semester students)**.
@@ -31,7 +31,7 @@ The main goal is to reduce confusion, misinformation, and time loss during the f
 
 ---
 
-## 3) Navigation table
+## Navigation table
 
 | Section | Description |
 |---|---|
